@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'json'
+gem 'rdoc'
+
 # Declare your gem's dependencies in kuroko2.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
 # development dependencies will be added by default to the :development group.
